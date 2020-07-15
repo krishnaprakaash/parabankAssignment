@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ParaBank"  thread-count="1" > <!--  Task 5 -->
+
+	<test name="Selenium Assignment ">
+		
+		<classes> 
+		
+			<class name="assignments.ParaBankMethods"></class>
+		
+		</classes>
+
+	</test>
+
+</suite>
